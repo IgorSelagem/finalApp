@@ -20,4 +20,5 @@ ________________________________________________________________________________
 # Estrutura do projeto
 A estrutura do projeto escolida para este projeto foi a mais conhecida e também a mais ultilizada, que foi
 o modelo MVC (Model, View, Controller). 
+
 ![mvc-esquema](https://user-images.githubusercontent.com/89614037/158917559-fef3404b-a758-4141-bfd5-a79d59441bdf.jpg)

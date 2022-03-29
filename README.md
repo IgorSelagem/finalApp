@@ -1,6 +1,9 @@
 # finalApp
-Projeto final que consiste na criação de uma aplicação para android ou iOS da escola QI Assis Brasil (Porto Alegre).
+Projeto final que consiste na criação de uma aplicação para android ou iOS da escola QI Assis Brasil (Porto Alegre/RS).
 
+___________________________________________________________________________________________________________
+# Branch's
+Projeto apresenta duas branch's, sendo a main onde apresenta o Readme e a master contendo todo o conteúdo da aplicação.
 ___________________________________________________________________________________________________________
 # Assunto
 - Aplicativo de uma loja virtual onde aborda a venda de calçados casuais e esportivos para o dia a dia.
